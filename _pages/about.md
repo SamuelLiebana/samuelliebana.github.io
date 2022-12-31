@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.dpag.ox.ac.uk/team/samuel-liebana-garcia'>University of Oxford</a>. 
+subtitle: <a href='https://www.dpag.ox.ac.uk/team/samuel-liebana-garcia'>DPAG, University of Oxford</a>
 
 profile:
   align: right
