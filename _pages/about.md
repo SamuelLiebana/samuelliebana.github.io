@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.dpag.ox.ac.uk/team/samuel-liebana-garcia'>University of Oxford</a>. 
 
 profile:
   align: right
