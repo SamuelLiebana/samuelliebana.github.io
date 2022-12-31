@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Causal Inference in the MOS6502
+description: Applying causal discovery methods to switching data from the MOS6502 microprocessor.
+img: assets/mos6502.png
 importance: 1
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.
