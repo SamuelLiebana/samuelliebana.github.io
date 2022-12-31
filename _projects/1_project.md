@@ -2,7 +2,7 @@
 layout: page
 title: Causal Inference in the MOS6502
 description: Applying causal discovery methods to switching data from the MOS6502 microprocessor.
-img: assets/mos6502.png
+img: assets/img/mos6502.png
 importance: 1
 category: research
 ---
