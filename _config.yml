@@ -71,7 +71,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: SamuelLiebana # your GitHub user name
 twitter_username: SamuelLiebana # your Twitter handle
-mastodon_username: neuromatch.social.tdl/@samuelliebana # your mastodon instance+username in the format instance.tld/@username
+mastodon_username: neuromatch.social.tld/@samuelliebana # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: SamuelLiebana # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: 4AotP6EAAAAJ # your Google Scholar ID
