@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: recent projects.
+description:
 nav: true
 nav_order: 2
 display_categories: [research, fun]
