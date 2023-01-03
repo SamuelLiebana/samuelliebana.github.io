@@ -114,8 +114,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Theories of Learning # blog_name will be displayed in your blog page
-blog_nav_title: Theories of Learning # your blog must have a title for it to be displayed in the nav bar
+blog_name: Learning Blog # blog_name will be displayed in your blog page
+blog_nav_title: How do we learn? # your blog must have a title for it to be displayed in the nav bar
 blog_description: a space for thoughts on learning
 permalink: /blog/:year/:title/
 
