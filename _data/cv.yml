@@ -6,34 +6,20 @@
     - name: Date of Birth
       value: 18th July 1998
     - name: Languages
-      value: English, Spanish, Italian, German
+      value: English, Spanish, Italian, German, French
 
 - title: Education
   type: time_table
   contents:
+    - title: DPhil in Neuroscience
+      institution: University of Oxford, Oxford, UK
+      year: 2021-current
     - title: MSc in Neuroscience
       institution: University of Oxford, Oxford, UK
-      year: 2021
+      year: 2020-2021
     - title: BA & MEng in Engineering
       institution: University of Cambridge, Cambridge, UK
-      year: 2020
+      year: 2016-2020
       description:
         - Specialized in Information, Electrical, and Control Systems Engineering
 
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Theories of Learning
-      items: 
-        - General learning algorithms.
-        - Implementations in the brain.
-    - title: Dopamine.
-      items:
-        - Role of dopamine in learning.
-        - Function of dopaminergic heterogeneity across the striatum.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Baroque Recorder, Travelling, etc.
