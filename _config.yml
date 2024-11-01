@@ -4,8 +4,8 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Samuel
-middle_name: C.
-last_name: Liebana Garcia
+middle_name:
+last_name: Liebana
 email: samuel.liebanagarcia@merton.ox.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hi, this is Sam! I am a PhD student working with Armin Lak and Andrew Saxe in Oxford and the Gatsby Unit at UCL. My work lies at the intersection of
