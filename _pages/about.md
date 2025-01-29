@@ -2,21 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.dpag.ox.ac.uk/team/samuel-liebana-garcia'>DPAG, University of Oxford</a>
+subtitle: <a href='https://www.ucl.ac.uk/gatsby/people'>Gatsby Unit, University College London</a>
 
 profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Sherrington Building</p>
-    <p>Sherrington Road OX13PT</p>
-    <p>Oxford, UK</p>
+    <p>Gatsby Computational Neuroscience Unit</p>
+    <p>25 Howland Street W1T 4JG</p>
+    <p>London, UK</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, this is Sam! I am a PhD student supervised by [Armin Lak](https://www.dpag.ox.ac.uk/team/armin-lak), [Andrew Saxe](https://www.sainsburywellcome.org/web/people/andrew-saxe) and [Rafal Bogacz](https://www.mrcbndu.ox.ac.uk/people/prof-rafal-bogacz) in Oxford and the Gatsby Unit at UCL. My work lies at the intersection between theoretical and experimental neuroscience. I am currently working on modelling the role of striatal dopamine in learning through a perceptual decision-making paradigm for mice. I am interested in discovering the general principles underlying learning at both the theoretical and circuit level. Feel free to contact me to discuss ideas!
-
+Hi, this is Sam! I am a Research Fellow in Theoretical Neuroscience working with [Andrew Saxe](https://www.sainsburywellcome.org/web/people/andrew-saxe) in the Gatsby Computational Neuroscience Unit at UCL. My work lies at the intersection of theoretical and experimental neuroscience. I am currently working on uncovering the principles of individual and collective learning in the brain. Feel free to contact me to discuss ideas!
