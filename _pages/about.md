@@ -8,9 +8,10 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
+  address: 
     <p>Gatsby Computational Neuroscience Unit</p>
-    <p>25 Howland Street W1T 4JG</p>
+    <p>25 Howland Street</p>
+    <p>W1T 4JG</p>
     <p>London, UK</p>
 
 news: false  # includes a list of news items
