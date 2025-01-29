@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ucl.ac.uk/gatsby/people'>Gatsby Unit, University College London</a>
+subtitle: <a href='https://www.ucl.ac.uk/gatsby/people'>Gatsby Computational Neuroscience Unit, University College London</a>
 
 profile:
   align: right
