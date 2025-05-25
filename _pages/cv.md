@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: Samuel_Liebana_CV_Website_01_11_2024.pdf
+cv_pdf: 2025_05_25_Samuel_Liebana_Garcia_CV_Website.pdf
 ---
