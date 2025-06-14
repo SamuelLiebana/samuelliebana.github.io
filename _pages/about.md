@@ -27,5 +27,5 @@ I am funded by the [Human Frontier Science Program (HFSP)](https://www.hfsp.org/
 
 Education:
 
-MSc + PhD in Neuroscience, [University of Oxford](https://www.ox.ac.uk/)
+MSc + PhD in Neuroscience, [University of Oxford](https://www.ox.ac.uk/)<br>
 BA + MEng in Electrical Engineering (First Class), [University of Cambridge](https://www.cam.ac.uk/)
