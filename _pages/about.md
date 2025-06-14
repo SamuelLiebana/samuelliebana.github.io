@@ -23,4 +23,9 @@ I am a Research Fellow in Theoretical Neuroscience working with [Andrew Saxe](ht
 
 I completed my PhD in Neuroscience at [DPAG, University of Oxford](https://www.dpag.ox.ac.uk/) supervised by [Armin Lak](https://www.dpag.ox.ac.uk/team/armin-lak), [Andrew Saxe](https://www.sainsburywellcome.org/web/people/andrew-saxe), and [Rafal Bogacz](https://www.mrcbndu.ox.ac.uk/people/prof-rafal-bogacz). During my PhD, I studied the computational role of dopamine in long-term learning.
 
-I am funded by the Human Frontier Science Program (HFSP) and Gatsby Charitable Foundation.
+Education:
+
+MSc + PhD in Neuroscience, [University of Oxford](https://www.ox.ac.uk/)
+BA + MEng in Electrical Engineering (First Class), [University of Cambridge](https://www.cam.ac.uk/)
+
+I am funded by the [Human Frontier Science Program (HFSP)](https://www.hfsp.org/) and [Gatsby Charitable Foundation](https://www.gatsby.org.uk/).
