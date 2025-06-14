@@ -19,4 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, this is Sam! I am a Research Fellow in Theoretical Neuroscience working with [Andrew Saxe](https://www.sainsburywellcome.org/web/people/andrew-saxe) in the Gatsby Computational Neuroscience Unit at UCL. My work lies at the intersection of theoretical and experimental neuroscience. I am currently working on uncovering the principles of individual and collective learning in the brain. I am funded by the Human Frontier Science Program (HFSP) and Gatsby Charitable Foundation.
+I am a Research Fellow in Theoretical Neuroscience working with [Andrew Saxe](https://www.sainsburywellcome.org/web/people/andrew-saxe) at UCL. My work lies at the intersection of theoretical and experimental neuroscience, aiming to uncover the computational and biological principles of individual/collective learning in the brain.
+
+I completed my PhD in Neuroscience at [DPAG, University of Oxford](https://www.dpag.ox.ac.uk/) supervised by [Armin Lak](https://www.dpag.ox.ac.uk/team/armin-lak), [Andrew Saxe](https://www.sainsburywellcome.org/web/people/andrew-saxe), and [Rafal Bogacz](https://www.mrcbndu.ox.ac.uk/people/prof-rafal-bogacz). During my PhD, I studied the computational role of dopamine in long-term learning.
+
+I am funded by the Human Frontier Science Program (HFSP) and Gatsby Charitable Foundation.

@@ -8,14 +8,13 @@ middle_name:
 last_name: Liebana
 email: sc.liebangarcia@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi, this is Sam! I am a Research Fellow in Theoretical Neuroscience working with Andrew Saxe in the Gatsby Unit at UCL. My work lies at the intersection of
-  theoretical and experimental neuroscience. I am currently working on uncovering the principles of individual and collective learning in the brain. 
-  I am funded by the Human Frontier Science Program (HFSP) and Gatsby Charitable Foundation.
+  I am a Research Fellow in Theoretical Neuroscience working with [Andrew Saxe](https://www.sainsburywellcome.org/web/people/andrew-saxe) at UCL. 
+  My work lies at the intersection of theoretical and experimental neuroscience, aiming to uncover the computational and biological principles of 
+  individual/collective learning in the brain.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords:   # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: nataraja.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
