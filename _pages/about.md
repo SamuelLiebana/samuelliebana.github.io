@@ -16,7 +16,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am a Research Fellow in Theoretical Neuroscience working with [Andrew Saxe](https://www.sainsburywellcome.org/web/people/andrew-saxe) at UCL. My work lies at the intersection of theoretical and experimental neuroscience, aiming to uncover the computational and biological principles of individual/collective learning in the brain.
