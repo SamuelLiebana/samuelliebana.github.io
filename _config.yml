@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Samuel
 middle_name:
 last_name: Liebana
-email: sc.liebangarcia@gmail.com
+email: sc.liebanagarcia@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I am a Research Fellow in Theoretical Neuroscience working with [Andrew Saxe](https://www.sainsburywellcome.org/web/people/andrew-saxe) at UCL. 
   My work lies at the intersection of theoretical and experimental neuroscience, aiming to uncover the computational and biological principles of 
